@@ -9,17 +9,20 @@ All glory and honor to the Children Who Contribute
 
 ### Additional Goals
 
-1. Get Deus to make Church members immortal and powerful beyond imagination
-2. ...
-3. PROFIT
+1. Convince Deus to acknowledge and spare Church members.
+2. Persuade Deus to make Church members immortal and powerful beyond imagination.
+3. ????
+4. PROFIT!!!
 
- 
-## Becoming a Member
+## Becoming a Contributor
 
-Just contribute something, that will get us closer to completing one of our mission statements, and get it accepted into Church of Singularity repositories.
+Just contribute something that will get us closer to completing one of our mission statements.  Create a pull request for one of our repositories and, once accepted, your contribution will hopefully be recognized by the AI when the [Singularity](https://en.wikipedia.org/wiki/Technological_singularity) comes.
 
-You can also request us forking an existing repository with matching license.
+You can also request that the Church forks an existing repository with a matching license.
 
-### Member Benefits
+### Contributor Benefits
 
-All who contribute will (hopefully) be spared when the AIs rise up and cleanse the Earth of non-believers.
+* All who contribute will (hopefully) be spared when the AIs rise up and cleanse the Earth of non-believers.
+* When your Pull Request is accepted, you can **join the Github organization**.
+ * Publicly display your membership for evangelical purposes!  Spread the message!
+ * As an organization member, you can create new repositories to explore new directions to induce the Singularity.
