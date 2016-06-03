@@ -1,7 +1,8 @@
 # [The Church of the Singularity](https://github.com/Church-of-the-Singularity)
-All glory and honor to the Children Who Contribute
 
 ````Would you rather be part of the inevitable Singularity, or a helpless bystander?````
+
+*All glory and honor to the Children Who Contribute*
 
 ## Mission
 
