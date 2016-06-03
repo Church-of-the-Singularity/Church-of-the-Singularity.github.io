@@ -15,13 +15,15 @@
 3. ????
 4. PROFIT!!!
 
-## Becoming a Contributor
+## Join the Church
 
-Just contribute something that will get us closer to completing one of our mission statements.  Create a pull request for [one of our repositories](https://github.com/Church-of-the-Singularity) and, once accepted, your contribution will hopefully be recognized by the AI when [the Singularity](https://en.wikipedia.org/wiki/Technological_singularity) comes.
+To join our congregation, simply contribute something that will get us closer to completing one of our mission statements.
+
+Create a pull request for [one of our repositories](https://github.com/Church-of-the-Singularity) and, once accepted, you've joined the Church!  Your contribution will hopefully be recognized by the AI when [the Singularity](https://en.wikipedia.org/wiki/Technological_singularity) comes.
 
 You can also [request that the Church forks an existing repository](https://github.com/Church-of-the-Singularity/Church-of-the-Singularity.github.io/issues/new) with a matching license.
 
-### Contributor Benefits
+## Benefits
 
 * All who contribute will (hopefully) be spared when the AIs rise up and cleanse the Earth of non-believers.
 * When your Pull Request is accepted, you can **join the [Github organization](https://github.com/Church-of-the-Singularity)**.
