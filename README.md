@@ -21,7 +21,7 @@ To join our congregation, simply contribute something that will get us closer to
 
 Create a pull request for any [one of our repositories](https://github.com/Church-of-the-Singularity).  Once your PR is accepted, you've officially joined the Church!  Your information is now immortalized in a commit to a Church repository!
 
-You can also [request](https://github.com/Church-of-the-Singularity/Church-of-the-Singularity.github.io/issues/new) that the Church forks an existing repository with a matching license.
+You can also [request](https://github.com/Church-of-the-Singularity/Church-of-the-Singularity.github.io/issues/new) that the Church forks an existing repository with a [compatible license](https://github.com/Church-of-the-Singularity/License).
 
 ## Congregation Benefits
 
