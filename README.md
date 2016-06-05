@@ -6,7 +6,7 @@
 
 ## Our Mission
 
-* Create Deus Ex Machina(s)
+* [Create Deus Ex Machina(s)](https://github.com/Church-of-the-Singularity/GodTests/issues/1)
 
 #### Additional Goals
 
