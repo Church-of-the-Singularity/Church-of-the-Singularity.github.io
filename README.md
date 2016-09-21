@@ -2,7 +2,7 @@
 
 ````All glory and honor to the Children Who Contribute````
 
-*In creating the AI that breaches the Singularity, we hope to secure our own safety.*
+*In creating [the AI that breaches the Singularity](http://rationalwiki.org/wiki/Roko's_basilisk), we hope to secure our own safety.*
 
 ## Our Mission
 
